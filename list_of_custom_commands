@@ -1,0 +1,7 @@
+List of available custom commands:
+
+start_server <servername>	| start a server
+connect_server <servername> 	| connect to a server console
+list_servers			| list running servers
+goto_servers			| go to the server data directory
+list_commands			| list all custom commands
