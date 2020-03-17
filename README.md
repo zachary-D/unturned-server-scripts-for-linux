@@ -1,2 +1,1 @@
-# unturned-server-scripts-for-linux
-A collection of scripts for managing Unturned + Rocketmod servers running on Linux
+# This repo was migrated to https://git.zacksserver.com/zachary-D/unturned-server-scripts-for-linux
